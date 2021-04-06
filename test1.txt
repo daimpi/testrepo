@@ -6,3 +6,4 @@ signed test 3
 push test
 push test 2
 commit test
+commit test 2
